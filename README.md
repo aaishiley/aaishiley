@@ -2,6 +2,5 @@
 - 👀 Estou interessada em programação, tecnologia e inteligência artificial
 - 🎓 Cursando Big Data no Agronegócio
 - 💞 Procurando colaborar em projetos de desenvolvimento web, análise de dados e automação
-- 📫 Você pode me encontrar em [aishileyy@gmail.com] ou pelo LinkedIn: [Aishiley França]
-- 😄 Pronomes: Ela/Dela
+- 📫 Você pode me encontrar em aishileyy@gmail.com ou pelo LinkedIn: Aishiley França
 - ⚡ Curiosidade: Adoro aprender coisas novas, principalmente na área de IA e tecnologia
