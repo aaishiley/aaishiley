@@ -16,10 +16,10 @@
   <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=GitWillTi&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Estatísticas do GitHub
+![](https://github-readme-stats.vercel.app/api?username=GitWillTi&theme=red_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GitWillTi&theme=red_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitWillTi&theme=red_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Você pode me encontrar nas redes sociais abaixo
