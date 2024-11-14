@@ -16,7 +16,7 @@
   <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
-# Estatísticas do GitHub
+## Minha atividade
 ![](https://github-readme-stats.vercel.app/api?username=aaishiley&theme=red_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaishiley&theme=red_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaishiley&theme=red_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
