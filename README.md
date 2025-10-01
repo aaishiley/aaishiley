@@ -1,4 +1,4 @@
-## Olá! Eu sou o Aishiley 🖐
+## Olá! Eu sou a Aishiley 🖐
 
 - 🎓 Cursando Big Data no Agronegócio
 - 💞 Procurando colaborar em projetos de desenvolvimento web, análise de dados e automação
