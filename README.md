@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Aishiley 🖐
 
-- 👀 Estou interessada em programação, tecnologia e inteligência artificial
 - 🎓 Cursando Big Data no Agronegócio
 - 💞 Procurando colaborar em projetos de desenvolvimento web, análise de dados e automação
 - ⚡ Curiosidade: Adoro aprender coisas novas, principalmente na área de IA e tecnologia
